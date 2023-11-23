@@ -20,10 +20,10 @@ Here is a simple setup tutorial on how to use Movables in your site.
 ```html
 <head>
     <!-- Movables CSS Insertion -->
-    <link rel="stylesheet" type="text/css" href="https://dhcweblogistics/web-tools/css/movables.css">
+    <link rel="stylesheet" type="text/css" href="https://dhcweblogistics.net/web-tools/css/movables.css">
 
     <!-- Movables Script Insertion -->
-    <script src="https://dhcweblogistics/web-tools/js/movables.vanilla.js" defer></script>
+    <script src="https://dhcweblogistics.net/web-tools/js/movables.vanilla.js" defer></script>
 </head>
 ```
 
@@ -151,6 +151,6 @@ More "from" directions can be applied for "shrink" effect:
 Thanks for using this web-tool, I hope to make more and to add more features to this
 one.
 
-> :warning: If you choose to download the resources beware you may miss out of updates to the live version on `dhcweblogistics.net/web-tools/`. 
+> :warning: If you choose to download the resources beware you may miss out of updates to the live version on `https://dhcweblogistics.net/web-tools/`. 
 
 *Version 1.0*
