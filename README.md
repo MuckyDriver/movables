@@ -1,6 +1,6 @@
 # Movables Documentation Document
 
-![movables thumbnail](movables_thumb.gif) 
+![movables thumbnail](movables_thumb2.gif) 
 
 ## About Movables
 Movables is a quick and easy CSS and JS (Jquery included) tool that allows you to apply objects to move into place when such 
