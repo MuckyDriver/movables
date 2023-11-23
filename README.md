@@ -1,5 +1,7 @@
 # Movables Documentation Document
 
+![movables thumbnail](movables_thumb.gif)
+
 ## About Movables
 Movables is a quick and easy CSS and JS (Jquery included) tool that allows you to apply objects to move into place when such 
 element is scrolled into view. You can use Movables to make the effect of loading in different elements onto the webpage as you 
