@@ -138,7 +138,7 @@ Grow can also be used in "from" directions:
 - `from-top-shrink`: Shrinks and slides from the top.
 - `from-bottom-shrink`: Shrinks and slides from the bottom.
 
-More "from" directions can be applied for "grow" effect:
+More "from" directions can be applied for "shrink" effect:
 
 - `from-top-left-shrink`: Shrinks into place as it slides from top left direction.
 - `from-bottom-left-shrink`: Shrinks into place as it slides from bottom left direction.
