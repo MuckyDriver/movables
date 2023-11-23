@@ -39,7 +39,7 @@ Here is a simple setup tutorial on how to use Movables in your site.
 ## Feature Documentation
 Movables is not going to be as simple as you think when you do not know what kinds of effects there are and types.
 
-**Before you start**, add `movable` to the classlist 😄
+**Before you start**, add `movable` to the classlist :smile:
 
 ### Movables - Types
 Here is a list of different types
@@ -127,3 +127,28 @@ More "from" directions can be applied for "grow" effect:
 - `from-bottom-right-grow`: Grows into place as it slides from bottom right direction.
 
 ### Movables - Shrink
+Movable that will shrink an element when in view. 
+
+- `shrink`: Will shrink the element to its proper size.
+
+Grow can also be used in "from" directions:
+
+- `from-left-shrink`: Shrinks and slides from the left.
+- `from-right-shrink`: Shrinks and slides from the right.
+- `from-top-shrink`: Shrinks and slides from the top.
+- `from-bottom-shrink`: Shrinks and slides from the bottom.
+
+More "from" directions can be applied for "grow" effect:
+
+- `from-top-left-shrink`: Shrinks into place as it slides from top left direction.
+- `from-bottom-left-shrink`: Shrinks into place as it slides from bottom left direction.
+- `from-top-right-shrink`: Shrinks into place as it slides from top right direction.
+- `from-bottom-right-shrink`: Shrinks into place as it slides from bottom right direction.
+
+## Thank you :D
+Thanks for using this web-tool, I hope to make more and to add more features to this
+one.
+
+> :warning: If you choose to download the resources beware you may miss out of updates to the live version on `dhcweblogistics.net/web-tools/`. 
+
+*Version 1.0*
