@@ -1,4 +1,4 @@
-# Movables Documentation Document
+# **Movables Documentation Document**
 
 ![movables thumbnail](movables_thumb2.gif) 
 
@@ -38,7 +38,7 @@ Here is a simple setup tutorial on how to use Movables in your site.
 
 3. Yay! Everything should work as intended.
 
-## Feature Documentation
+## **Feature Documentation**
 Movables is not going to be as simple as you think when you do not know what kinds of effects there are and types.
 
 **Before you start**, add `movable` to the classlist :smile:
