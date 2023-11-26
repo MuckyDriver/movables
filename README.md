@@ -52,12 +52,20 @@ Here is a list of different types
 - `type-back`: Movable will go backwards in the beginning and go forward until stopping.
 - `type-steps-#`: Movable will move in a set amount of frames (32, 24, 12, 8, 6, 4, 2).
 
+```html
+<div class="movable opacity type-steps-12"></div>
+```
+
 ### Movables - Speeds
 Here is a list of different speeds that a movable can be.
 
 - Default speed is **0.5s**
 - `fast`: Movable will complete in **0.2s**
 - `slow`: Movable will complete in **1s**
+
+```html
+<div class="movable opacity fast"></div>
+```
 
 ### Movables - Delay
 Need to add a delay to your Movable, here are the options
@@ -66,6 +74,10 @@ Need to add a delay to your Movable, here are the options
 - `fast-delay`: Movable will be delayed by **0.2s**
 - `delay`: Movable will be delayed by **0.4s**
 - `slow-delay`: Movable will be delayed by **0.8s**
+  
+```html
+<div class="movable opacity delay"></div>
+```
 
 ### Movables - Basics
 Simple Movable features that require not too much knowledge.
@@ -74,6 +86,12 @@ Simple Movable features that require not too much knowledge.
 - `opacity`: Opacity movable will fade the object into the page.
 - `blur`: Element will go back to normal from a blur effect.
 - `grayscale`: Element will go from grayscale to full saturation. (Cannot use `blur` at the same time!)
+
+```html
+<div class="movable opacity"></div>
+<div class="movable blur"></div>
+<div class="movable grayscale"></div>
+```
 
 ### Movables - From 
 Movables that come in from a certain direction:
