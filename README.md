@@ -165,6 +165,7 @@ More "from" directions can be applied for "shrink" effect:
 - `from-top-right-shrink`: Shrinks into place as it slides from top right direction.
 - `from-bottom-right-shrink`: Shrinks into place as it slides from bottom right direction.
 
+***
 ## Thank you :D
 Thanks for using this web-tool, I hope to make more and to add more features to this
 one.
