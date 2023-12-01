@@ -174,4 +174,4 @@ one.
 
 > :warning: If you choose to download the resources beware you may miss out of updates to the live version on `https://dhcweblogistics.net/web-tools/`. 
 
-*Version 1.0*
+*Version 1.1*
